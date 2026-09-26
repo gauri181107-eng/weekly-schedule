@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Routine & Daily Task Planner",
+  "description": "Recurring weekly schedule planner, daily student to-do checklist with date tracking, categorized tags, streak metrics, and important notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
